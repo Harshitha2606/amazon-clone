@@ -1,3 +1,5 @@
+Amazon clone is a website built using React where user can create an account which uses firebase authentication to login and can add items to checkout while checking out the user can enter a dummy card card value to make a payment using stripe and can finally view the items on order confirmation page once the transaction is complete
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
